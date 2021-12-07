@@ -25,7 +25,7 @@ This section contain 4 questions and the complete specification for these exerci
 This section contain 1 question and the complete specification for these exercises can be found in the [aws-cdk/](/aws-cdk) directory.
 
 ### 3. [Problem Solving] Solve generic problems
-This section contain 2 question and the complete specification for these exercises can be found in the [aws-cdk/](/aws-cdk) directory.
+This section contain 2 question and the complete specification for these exercises can be found in the [problem-solving/](/problem-solving) directory.
 
 
 ## F.A.Q.
