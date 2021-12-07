@@ -29,7 +29,7 @@ Complete the function commonPrefix as presented below:
 # The function is expected to return an INTEGER_ARRAY.
 # The function accepts STRING_ARRAY inputs as parameter.
 
-def	commonPrefix(inputs):
+def commonPrefix(inputs):
     # Write your code here
     return inputs
 
