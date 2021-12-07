@@ -1,15 +1,15 @@
 # 1 - Hello, CDK
 
-In this question, we want you to write some CDK code. We want you to build a simple CRUD application to manage books. Roughly, the model can be like that:
+In this question, we want you to write some AWS CDK code. We want you to build a simple CRUD application to manage books. Roughly, the model can be like that:
 
 ```json
 {
-   "name": "name of the book>",
+   "name": "<name of the book>",
    "isbn": "<universal identifier of the book>",
    "authors": "<authors of the book>",
-   "languages": "<Languages the book is available>",
-   "countries": "<Countries where the book is available>",
-   "numberOfPages": "<Number of pages of the book>",
+   "languages": "<languages the book is available>",
+   "countries": "<countries where the book is available>",
+   "numberOfPages": "<number of pages of the book>",
    "releaseDate": "<release date of the book>",
 }
 ```
