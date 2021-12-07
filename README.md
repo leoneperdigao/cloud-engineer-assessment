@@ -1,6 +1,6 @@
 <img src="assets/postnl-logo.png?raw=true" width="100" style="background-color:none">
 
-# Coding Exercises
+# Cloud Engineer Assessment
 
 ## What to expect?
 We understand that your time is valuable, and in anyone's busy schedule solving these exercises may constitute a fairly substantial chunk of time, so we really appreciate any effort you put in to helping us build a solid team.
@@ -19,19 +19,14 @@ The interview will cover a wide range of technical and social aspects relevant t
 
 ## The Exercises:
 ### 1. [AWS] Intermediate AWS Knowledge check
-The complete specification for this exercise can be found in the [UsersAPI.md](UsersAPI.md).
+This section contain 4 questions and the complete specification for these exercises can be found in the [aws/](/aws) directory.
 
-### 2. [AWS CDK] Build a SPA that displays weather information
-The complete specification for this exercise can be found in the [Weather.md](Weather.md).
+### 2. [AWS CDK] Build a simple CDK App
+This section contain 1 question and the complete specification for these exercises can be found in the [aws-cdk/](/aws-cdk) directory.
 
-### 3. [Platform] Build a local proxy for currency exchange rates
-The complete specification for this exercise can be found in the [Forex.md](Forex.md).
+### 3. [Problem Solving] Solve generic problems
+This section contain 2 question and the complete specification for these exercises can be found in the [aws-cdk/](/aws-cdk) directory.
 
-### 4. [Mobile] Create a Grouped Card View
-The complete specification for this exercise can be found in the [GroupedCardView.md](GroupedCardView.md).
-
-### 5. [Platform] Build an API for managing a restaurant
-The complete specification for this exercise can be found at [SimpleRestaurantApi.md](SimpleRestaurantApi.md)
 
 ## F.A.Q.
 1) _Is it OK to share your solutions publicly?_
