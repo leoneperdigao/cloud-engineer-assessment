@@ -19,13 +19,13 @@ The interview will cover a wide range of technical and social aspects relevant t
 
 ## The Exercises:
 ### 1. [AWS] Intermediate AWS Knowledge check
-This section contain 4 questions and the complete specification for these exercises can be found in the [aws/](/aws) directory.
+This section contains 4 questions and the complete specification for these exercises can be found in the [aws/](/aws) directory.
 
 ### 2. [AWS CDK] Build a simple CDK App
-This section contain 1 question and the complete specification for these exercises can be found in the [aws-cdk/](/aws-cdk) directory.
+This section contains 1 question and the complete specification for these exercises can be found in the [aws-cdk/](/aws-cdk) directory.
 
 ### 3. [Problem Solving] Solve generic problems
-This section contain 2 question and the complete specification for these exercises can be found in the [problem-solving/](/problem-solving) directory.
+This section contains 2 question and the complete specification for these exercises can be found in the [problem-solving/](/problem-solving) directory.
 
 
 ## F.A.Q.
