@@ -1,5 +1,3 @@
-<img src="assets/postnl-logo.png?raw=true" width="100" style="background-color:none">
-
 # Cloud Engineer Assessment
 
 ## What to expect?
