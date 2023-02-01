@@ -13,7 +13,7 @@ You can do this however you see fit - you can email us a tarball, a pointer to d
 
 ## The Interview:
 After you submit your code, we will contact you to discuss and potentially arrange an online interview with some of the team.
-The interview will cover a wide range of technical and social aspects relevant to working at PostNL, but importantly for this exercise: we will also take the opportunity to step through your submitted code with you.
+The interview will cover a wide range of technical and social aspects relevant to working at our company, but importantly for this exercise: we will also take the opportunity to step through your submitted code with you.
 
 ## The Exercises:
 ### 1. [AWS] Intermediate AWS Knowledge check
